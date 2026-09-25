@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Classic Tea",
+    "category": "brewed-tea",
+    "file": "images/classic-tea.png",
+    "source_page": "https://www.1992sharetea.com/brewed-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692082748-T1J1K0YKNSIYHVSZLSMB/FreshBrew_11_black.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "52d77fd51dbc19ebfc4ed8457fabe1fc5c31975bade24fefc8840638228de072"
+  },
+  {
+    "name": "Honey Tea",
+    "category": "brewed-tea",
+    "file": "images/honey-tea.png",
+    "source_page": "https://www.1992sharetea.com/brewed-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692082758-APU5YIEDJK86FKUQ1XQ5/FreshBrew_11_green.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "9237892c1acf9482aab893666c482d40d7340a85ffabbd656be2ce263d566f0f"
+  },
+  {
+    "name": "Honey Pearl Milk Tea",
+    "category": "milk-tea",
+    "file": "images/honey-pearl-milk-tea.png",
+    "source_page": "https://www.1992sharetea.com/milk-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691938600-GF3N9V6HU6U6AWMFZ0N9/MilkSeries_01.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "a3e08512f9aa04004878f4246819cb5c251820e7a9e9a0cb24064bc798d20994"
+  },
+  {
+    "name": "Classic Pearl Milk Tea",
+    "category": "milk-tea",
+    "file": "images/classic-pearl-milk-tea.png",
+    "source_page": "https://www.1992sharetea.com/milk-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691938638-0LQYYZ0J04XJVK2OH9WR/MilkSeries_02.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "ad75e38d2a0d10e6e974206593453eadb610a4808cd908fa4895e041722a1471"
+  },
+  {
+    "name": "Coffee Creama",
+    "category": "milk-tea",
+    "file": "images/coffee-creama.png",
+    "source_page": "https://www.1992sharetea.com/milk-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691938618-7N65Y881KYPXVN32IBHE/MilkSeries_03.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "60acc10575eefa7498b4dc48f270d56914546d7c50d31a35cdee341cc0624a66"
+  },
+  {
+    "name": "Coffee Milk Tea with Coffee Jelly",
+    "category": "milk-tea",
+    "file": "images/coffee-milk-tea-with-coffee-jelly.png",
+    "source_page": "https://www.1992sharetea.com/milk-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691938686-JMDTLGXOBBVALUROBSBF/MilkSeries_04.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "cad3720f1356e670945030d949c0b0423daff9dc0b5b36b78827daf355ec03fa"
+  },
+  {
+    "name": "Coconut Pearl Milk Tea",
+    "category": "milk-tea",
+    "file": "images/coconut-pearl-milk-tea.png",
+    "source_page": "https://www.1992sharetea.com/milk-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691938667-7LS4PYI2PCYP83JSLG4C/MilkSeries_05.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "6f87479adc72db5d95c3f815e7044eb80723ed7a0eb0e896bddf7f65e886adec"
+  },
+  {
+    "name": "Thai Pearl Milk Tea",
+    "category": "milk-tea",
+    "file": "images/thai-pearl-milk-tea.png",
+    "source_page": "https://www.1992sharetea.com/milk-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691938627-M44TLGTNWRBUEWJAAMVI/MilkSeries_06.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "320541463013c363d9dd560118e9cd79597d336b7ce6c57f92be217568d4e20c"
+  },
+  {
+    "name": "Taro Pearl Milk Tea",
+    "category": "milk-tea",
+    "file": "images/taro-pearl-milk-tea.png",
+    "source_page": "https://www.1992sharetea.com/milk-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691938649-GKJUDYPFIMMDLK17GEO1/MilkSeries_07.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "327df59ad519d1bec8cc967a7507a213d41cd81aaf7617a2ba1d0d6d7a9ed9a9"
+  },
+  {
+    "name": "Mango Green Milk Tea",
+    "category": "milk-tea",
+    "file": "images/mango-green-milk-tea.png",
+    "source_page": "https://www.1992sharetea.com/milk-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691938609-4TEME4JQ8M3PP2LA4AX8/MilkSeries_08.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "d3c143d62da79a62c00a456e60466888b1a2e4c7c460f2ff7a68e9585cfd3966"
+  },
+  {
+    "name": "Golden Retriever",
+    "category": "milk-tea",
+    "file": "images/golden-retriever.png",
+    "source_page": "https://www.1992sharetea.com/milk-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691938656-22QY4YZNG03WB2Z9B3E6/MilkSeries_09.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "d06e52d9b4d0cbdaf3dd77cb88beb394c1f32ae3d6486dc122f65148ccfea1a4"
+  },
+  {
+    "name": "Hokkaido Pearl Milk Tea",
+    "category": "milk-tea",
+    "file": "images/hokkaido-pearl-milk-tea.png",
+    "source_page": "https://www.1992sharetea.com/milk-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691938675-NOF85TUQXHVJLP5UOFWR/MilkSeries_10.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "76789fb491b6ed46e9787a072bb1504a345361d9f8c7b3cebebd695b70ece7c2"
+  },
+  {
+    "name": "Mango Green Tea",
+    "category": "fruit-tea",
+    "file": "images/mango-green-tea.png",
+    "source_page": "https://www.1992sharetea.com/fruit-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691919735-K4SXJBPZCJ4LZ3ZVCEKQ/Fruity_13.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "3b525353b78fea1fe2713b21ddf240918fbbdc214dd7517515e6cefacfcb14de"
+  },
+  {
+    "name": "Passion Chess",
+    "category": "fruit-tea",
+    "file": "images/passion-chess.png",
+    "source_page": "https://www.1992sharetea.com/fruit-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691919763-DF1AOR80K1KUD7W04GDM/Fruity_14.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "ffdee341871705b493d502452fe7b2e7616344acce8baa6b8a256b28ed71d3b5"
+  },
+  {
+    "name": "Berry Lychee Burst",
+    "category": "fruit-tea",
+    "file": "images/berry-lychee-burst.png",
+    "source_page": "https://www.1992sharetea.com/fruit-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691919755-KXTRXBMX2F3O93LHZB6V/Fruity_15.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "bef82bbd33f03f4173e0decb0e5cd34ab611fc47e7cb811c3b3993711a54cb91"
+  },
+  {
+    "name": "Peach Tea with Honey Jelly",
+    "category": "fruit-tea",
+    "file": "images/peach-tea-with-honey-jelly.png",
+    "source_page": "https://www.1992sharetea.com/fruit-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691919715-FDQ6FHJTNVUM7TM5G3GD/Fruity_16.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "37f2e9bcad2f84911afbbbb643f637e35f18f36e8ac3815dde8d284a7363786b"
+  },
+  {
+    "name": "Mango and Passion Fruit Tea",
+    "category": "fruit-tea",
+    "file": "images/mango-and-passion-fruit-tea.png",
+    "source_page": "https://www.1992sharetea.com/fruit-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691919745-DWGX7MLTSQO3R7KC6IIT/Fruity_17.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "03130d9fd021f96d7a32f78ad19166b04331aa88e532bcf36fcdcd54de695aba"
+  },
+  {
+    "name": "Honey Lemonade",
+    "category": "fruit-tea",
+    "file": "images/honey-lemonade.png",
+    "source_page": "https://www.1992sharetea.com/fruit-tea",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691919724-LNWQLQ0YGUHDX2UN2YOL/Fruity_18+%281%29.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "31905891975b60bcac16d170f0bc755c79df6f0e1252ab8813153aa859397adc"
+  },
+  {
+    "name": "Tiger Boba",
+    "category": "non-caffeinated",
+    "file": "images/tiger-boba.png",
+    "source_page": "https://www.1992sharetea.com/non-caffeinated",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691917089-LGZ6OJLREK6LASOJFVTQ/NonC_19.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "2143eb59f0417a02707eebb391a2cc048a4f0146144e601b71067aaaf310ae7e"
+  },
+  {
+    "name": "Strawberry Coconut",
+    "category": "non-caffeinated",
+    "file": "images/strawberry-coconut.png",
+    "source_page": "https://www.1992sharetea.com/non-caffeinated",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691917105-AK6NIVLKOSS7YJ07ZR2D/NonC_20.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "f2fb1df39cd724aed42e1c559af9a17f88175e2c1e509a16972ce39307a31471"
+  },
+  {
+    "name": "Strawberry Coconut Ice Blended",
+    "category": "non-caffeinated",
+    "file": "images/strawberry-coconut-ice-blended.png",
+    "source_page": "https://www.1992sharetea.com/non-caffeinated",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691917119-GSDKODNSQAVCTVGV0P29/NonC_21.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "5a2b1d8fd46caff43c03e0de124aeba30d38b678cbc264e2df00763b3cccc943"
+  },
+  {
+    "name": "Halo Halo",
+    "category": "non-caffeinated",
+    "file": "images/halo-halo.png",
+    "source_page": "https://www.1992sharetea.com/non-caffeinated",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691917132-H9POBMSI0AUQ1HKHDSBO/NonC_22.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "3137fff312c3aa61ac23e8415bcae7d6cdfc082cc459e1a050b666737af6d647"
+  },
+  {
+    "name": "Halo Halo Ice Blended",
+    "category": "non-caffeinated",
+    "file": "images/halo-halo-ice-blended.png",
+    "source_page": "https://www.1992sharetea.com/non-caffeinated",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691917145-A1ST4B90GAE4MB0EFKBD/NonC_23.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "23c6434856d305c0b230ed1d2aca49c16d12bef88174de160c9f228079cd3c6c"
+  },
+  {
+    "name": "Wintermelon Lemonade",
+    "category": "non-caffeinated",
+    "file": "images/wintermelon-lemonade.png",
+    "source_page": "https://www.1992sharetea.com/non-caffeinated",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691917155-I70VSTDSTN8V7WL9EWV1/NonC_24.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "bf18f5074dadd144731968c731e3f579b1c2a5aad9fe938da7feae5300c06f1a"
+  },
+  {
+    "name": "Wintermelon Lemonade Ice Blended",
+    "category": "non-caffeinated",
+    "file": "images/wintermelon-lemonade-ice-blended.png",
+    "source_page": "https://www.1992sharetea.com/non-caffeinated",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691917171-RJ4T5AKTKQ8XK07LMZPB/NonC_25.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "04d8a661d1be61c670ea559abf99d3b28132bb2d4acf4a57da8c4e9e424d3978"
+  },
+  {
+    "name": "Wintermelon with Fresh Milk",
+    "category": "non-caffeinated",
+    "file": "images/wintermelon-with-fresh-milk.png",
+    "source_page": "https://www.1992sharetea.com/non-caffeinated",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760691917180-2UQR4W3XV6S9BHLAG2KV/NonC_26.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "e1e66841de283466d3b8cfb39f5b0de0f815486ecb3b626796849d5d86c23f85"
+  },
+  {
+    "name": "Oreo Ice Blended with Pearl",
+    "category": "ice-blended",
+    "file": "images/oreo-ice-blended-with-pearl.png",
+    "source_page": "https://www.1992sharetea.com/ice-blended",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692019680-0SZR3JQJC14ONPQRSJS8/IB_32.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "d4c6a2835ae7fb7e94a5b9edeee7e123ace0bd436bd8f59b53c953c68d2b14d5"
+  },
+  {
+    "name": "Taro Ice Blended with Pudding",
+    "category": "ice-blended",
+    "file": "images/taro-ice-blended-with-pudding.png",
+    "source_page": "https://www.1992sharetea.com/ice-blended",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692019658-C2PGIT19L66X8A9PBEMI/IB_33.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "a3f7677a7eb3ac081301b2844f1f1a579f49ca6b7e73bc541c2bd7d7e403fe4d"
+  },
+  {
+    "name": "Thai Tea Ice Blended with Pearl",
+    "category": "ice-blended",
+    "file": "images/thai-tea-ice-blended-with-pearl.png",
+    "source_page": "https://www.1992sharetea.com/ice-blended",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692019639-7OLL85DFJ5UX77X7ZW4T/IB_34.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "5b001abe0369db74e4a5121e1faf15568eb334d1dfafa970faa558722978c40f"
+  },
+  {
+    "name": "Coffee Ice Blended with Ice Cream",
+    "category": "ice-blended",
+    "file": "images/coffee-ice-blended-with-ice-cream.png",
+    "source_page": "https://www.1992sharetea.com/ice-blended",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692019690-K9I65DEC9KFWT5F5XCD8/IB_35.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "dd4e8c06443c0499eb51d9ed0e182cd3b55bb9fd45d5fbb953a0a44242de11bf"
+  },
+  {
+    "name": "Mango Ice Blended with Ice Cream",
+    "category": "ice-blended",
+    "file": "images/mango-ice-blended-with-ice-cream.png",
+    "source_page": "https://www.1992sharetea.com/ice-blended",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692019700-WKZ5AU7U3PIMA8Z3W1J2/IB_36.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "db96415cdf71114995438f1146cee2a9b40966618d2c526883e03707e7c21335"
+  },
+  {
+    "name": "Strawberry Ice Blended with Lychee Jelly and Ice Cream",
+    "category": "ice-blended",
+    "file": "images/strawberry-ice-blended-with-lychee-jelly-and-ice-cream.png",
+    "source_page": "https://www.1992sharetea.com/ice-blended",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692019669-RS2UT6X25J6BU7LNV1VB/IB_37.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "540cfaf3046970b5028df2eba702fb7b00763f63d54d2ec64b93dd32513732a9"
+  },
+  {
+    "name": "Peach Tea Ice Blended with Lychee Jelly",
+    "category": "ice-blended",
+    "file": "images/peach-tea-ice-blended-with-lychee-jelly.png",
+    "source_page": "https://www.1992sharetea.com/ice-blended",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692019627-J27NLCWA33BIBEDBQPQU/IB_38.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "b6db621cfa570b007901a358f673487f0685028b63de0564dc012ede56418e76"
+  },
+  {
+    "name": "Lava Flow",
+    "category": "ice-blended",
+    "file": "images/lava-flow.png",
+    "source_page": "https://www.1992sharetea.com/ice-blended",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692019648-UJ2B3NKIPTLT1P2HVR4V/IB_39.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "700338bb631faaeb5dbfa9454082cf3ddb3899efa06347d833f19dc9cf566afe"
+  },
+  {
+    "name": "Matcha Pearl Milk Tea",
+    "category": "new-matcha-series",
+    "file": "images/matcha-pearl-milk-tea.png",
+    "source_page": "https://www.1992sharetea.com/new-matcha-series",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692083914-EK6HLB9EFVPFCIDKA9F1/Matcha_27.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "616bca29826caf185a601d172e28f29ffe70dd2663b26ef75bfcf4a659be8901"
+  },
+  {
+    "name": "Matcha Fresh Milk",
+    "category": "new-matcha-series",
+    "file": "images/matcha-fresh-milk.png",
+    "source_page": "https://www.1992sharetea.com/new-matcha-series",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692083945-BLC8HEZ88J9PBAEG4P0B/Matcha_28.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "94e3ffee7d58a71ebe169537debbd1f5f17ec009804192301dc85d9401d0003b"
+  },
+  {
+    "name": "Strawberry Matcha Fresh Milk",
+    "category": "new-matcha-series",
+    "file": "images/strawberry-matcha-fresh-milk.png",
+    "source_page": "https://www.1992sharetea.com/new-matcha-series",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692083935-2XPNBK1FJNB42Y034BXG/Matcha_29.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "5cb1d6cf9243c495765a5d6f7d52d71a6237de32c82430ab5f7fe8d825e9b92c"
+  },
+  {
+    "name": "Mango Matcha Fresh Milk",
+    "category": "new-matcha-series",
+    "file": "images/mango-matcha-fresh-milk.png",
+    "source_page": "https://www.1992sharetea.com/new-matcha-series",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692083926-E2TY2Y19FO66HRHDFFIY/Matcha_30.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "c6f84ae70361e033586dbd21ef00b1b3a8802781d68b9b76da0122fe261aaf72"
+  },
+  {
+    "name": "Matcha Ice Blended",
+    "category": "new-matcha-series",
+    "file": "images/matcha-ice-blended.png",
+    "source_page": "https://www.1992sharetea.com/new-matcha-series",
+    "source_image": "https://images.squarespace-cdn.com/content/v1/68f206cca9dce96f2599130d/1760692083955-1KY0U6UPNH2QCKXARB1M/Matcha_31.png",
+    "width": 331,
+    "height": 424,
+    "sha256": "44f288016cc4fbbf247913115ed177b4805eeadbadc95f5bb7d3d4730494cc99"
+  }
+]
